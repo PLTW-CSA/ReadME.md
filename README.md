@@ -23,6 +23,8 @@ all he/she needs to know. The comments should usually include at least:<br>
 <p>#?  EXAMPLE Insert question you are answering here </p>
 <p>#?  EXAMPLE Insert question you are answering here </p>
 <p>#?  EXAMPLE Insert question you are answering here </p>
+<img src="screenshot.jpg" alt="How to Place A Screen Shot">
+
 <hr>
 <p>
 ------------------------------------------------------------------------<br>
